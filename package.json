@@ -1,0 +1,15 @@
+{
+  "name": "the-void-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A nice dark theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/editspace/the-void-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
